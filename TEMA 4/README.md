@@ -6,4 +6,4 @@
 
 3 - Ahora deberemos añadir un fichero de configuración llamado .travis.yml, mi fichero de configuración es:
 
-![](img/captura_ej10_tema4.png)
+![](https://github.com/sergiocantero8/IV-Autoevaluacion/blob/main/img/captura_ej10_tema4.png)

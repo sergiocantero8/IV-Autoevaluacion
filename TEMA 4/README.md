@@ -1,4 +1,4 @@
-# Ejercicio 10 - Configurar integración continua para nuestra aplicación usando Travis o algún otro sitio.
+# Ejercicio 9 y 10 - Configurar integración continua para nuestra aplicación usando Travis o algún otro sitio.
 
 1 - Accedemos a su [página web oficial](https://travis-ci.com/signin), nos autenticamos con nuestra cuenta de Github y le autorizamos para que pueda acceder a nuestro repositorios públicos.
 

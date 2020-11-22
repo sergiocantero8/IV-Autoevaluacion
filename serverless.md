@@ -34,3 +34,13 @@ La primera que ejecutamos vercel en local, nos pide nuestro email y envía un co
 Una vez que confirmamos nuestro email, ya podemos configurarlo y desplegar la app al volver a ejecutar la orden vercel.
 
 ![](https://github.com/sergiocantero8/IV-Autoevaluacion/blob/main/img/ejercicio1_serverless_7.png)
+
+### Firebase
+Firebase, al ser de Google, con tener una cuenta de Google ya tendrías acceso a Firebase.
+
+Para poder usar localmente Firebase, deberemos descargar su SDK.
+
+![](https://github.com/sergiocantero8/IV-Autoevaluacion/blob/main/img/ejercicio2_serverless.png)
+
+
+

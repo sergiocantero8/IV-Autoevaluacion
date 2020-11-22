@@ -40,7 +40,16 @@ Firebase, al ser de Google, con tener una cuenta de Google ya tendrías acceso a
 
 Para poder usar localmente Firebase, deberemos descargar su SDK.
 
+![](https://github.com/sergiocantero8/IV-Autoevaluacion/blob/main/img/ejercicio1_serverless_8.png)
+
+
+
+## Ejercicio 2: Tomar alguna de las funciones de prueba de Vercel, y hacer despliegues de prueba con el mismo.
+
+Me he creado un [repositorio](https://github.com/sergiocantero8/vercel-example) aparte para este ejemplo, he usado esta función de prueba que la he sacado de la [página web oficial](https://vercel.com/docs/runtimes#official-runtimes/node-js/node-js-request-and-response-objects)
+
 ![](https://github.com/sergiocantero8/IV-Autoevaluacion/blob/main/img/ejercicio2_serverless.png)
 
+Ejecutamos vercel y seguimos el [link](https://vercel-example-xi.vercel.app/api/ejemplo_vercel.js) que nos dan para ver el despliegue de la función.
 
-
+![](https://github.com/sergiocantero8/IV-Autoevaluacion/blob/main/img/ejercicio2_serverless_2.png)
